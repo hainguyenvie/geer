@@ -1,0 +1,35 @@
+# Core deep learning framework
+torch>=1.8.0
+torchvision>=0.9.0
+
+# Scientific computing
+numpy>=1.19.0
+scipy>=1.7.0
+
+# Machine learning utilities
+scikit-learn>=0.24.0
+
+# Data handling
+pandas>=1.3.0
+Pillow>=8.0.0
+
+# Progress bars and utilities
+tqdm>=4.60.0
+
+# Path handling (built-in with Python 3.4+)
+pathlib2>=2.3.0; python_version < "3.4"
+
+# JSON handling (built-in)
+# argparse (built-in)
+# collections (built-in)
+# logging (built-in)
+# time (built-in)
+# random (built-in)
+# math (built-in)
+# os (built-in)
+# sys (built-in)
+# functools (built-in)
+# operator (built-in)
+# datetime (built-in)
+# itertools (built-in)
+# abc (built-in)
